@@ -15,7 +15,9 @@ $ bash -c "$(curl -fsSL raw.github.com/brazilian-dev/dotfiles/master/bin/dotfile
 
 ### Windows
 ```
-cd .dotfiles
+cd ~/
+git clone https://github.com/brazilian-dev/dotfiles.git
+cd dotfiles/
 make.bat
 ```
 
@@ -46,4 +48,4 @@ Veja o [Changelog](CHANGELOG.md) para mais detalhes.
 
 ## Licença
 
-[MIT license](http://hemersonvianna.mit-license.org/) © [Hemerson Vianna](http://hemersonvianna.io).
+[MIT license](http://hemersonvianna.mit-license.org/) © Hemerson Vianna
