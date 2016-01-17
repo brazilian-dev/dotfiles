@@ -1,0 +1,23 @@
+# ------------------------------------------------------------------------------
+# | Everybody need some help                                                   |
+# ------------------------------------------------------------------------------
+
+run_help() {
+
+cat <<EOT
+------------------------------------------------------------------------------
+dotfiles - Hemerson Vianna - http://hemersonvianna.io
+------------------------------------------------------------------------------
+Usage: $(basename "$0") [options]
+Options:
+    -h, --help      output help
+    -l, --list      output list of dependencies and applications
+    --no-packages   suppress package updates
+    --no-sync       suppress pulling from the remote repository
+Documentation can be found at https://github.com/brazilian-dev/dotfiles/
+Copyright (c) Hemerson Vianna
+Licensed under the MIT license.
+------------------------------------------------------------------------------
+EOT
+
+}
