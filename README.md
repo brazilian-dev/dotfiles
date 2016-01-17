@@ -6,10 +6,16 @@
 
 ## Instalação
 
+### Linux / OSX 
 ```bash
 $ bash -c "$(curl -fsSL raw.github.com/brazilian-dev/dotfiles/master/bin/dotfiles)"
 ```
 
+### Windows
+```
+cd .dotfiles
+make.bat
+```
 
 ## Uso
 
@@ -21,20 +27,15 @@ $ bash -c "$(curl -fsSL raw.github.com/brazilian-dev/dotfiles/master/bin/dotfile
 
 ## Referências
 
+* [@benswift](https://github.com/benswift) (Ben Swift)
+  [https://github.com/benswift/.dotfiles](https://github.com/benswift/.dotfiles)
+* [@jayharris](https://github.com/jayharris) (Jay Harris)
+  [https://github.com/jayharris/dotfiles-windows](https://github.com/jayharris/dotfiles-windows)
 * [@vitorbritto](https://github.com/vitorbritto) (Vitor Britto)
   [https://github.com/vitorbritto/forcefiles](https://github.com/vitorbritto/forcefiles)
 * [@necolas](https://github.com/necolas) (Nicolas Gallagher)
   [https://github.com/necolas/dotfiles](https://github.com/necolas/dotfiles)
-* [@mathiasbynens](https://github.com/mathiasbynens) (Mathias Bynens)
-  [https://github.com/mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles)
-* [@cowboy](https://github.com/cowboy) (Ben Alman)
-  [https://github.com/cowboy/dotfiles](https://github.com/cowboy/dotfiles)
-* [@tejr](https://github.com/tejr) (Tom Ryder)
-  [https://github.com/tejr/dotfiles](https://github.com/tejr/dotfiles)
-* [@gf3](https://github.com/gf3) (Gianni Chiappetta)
-  [https://github.com/gf3/dotfiles](https://github.com/gf3/dotfiles)
-* [@alrra](https://github.com/alrra) (Cãtãlin Mariş)
-  [https://github.com/alrra/dotfiles](https://github.com/alrra/dotfiles)
+
 
 ## Log
 
