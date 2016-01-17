@@ -1,5 +1,7 @@
 # My Dotfiles
 
+* In construction phase
+
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/brazilian-dev/dotfiles/blob/master/LICENSE.md)
 [![issues](https://img.shields.io/github/issues/brazilian-dev/dotfiles.svg)](https://github.com/brazilian-dev/dotfiles/issues)
 
