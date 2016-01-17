@@ -48,14 +48,6 @@ do
     esac
 done
 
-# Check for git
-if ! type_exists 'git'; then
-    e_header "Updating Homebrew..."
-    brew update
-    e_header "Installing Git..."
-    brew install git
-fi
-
 # Initialize the git repository if it's missing
 if ! is_git_repo; then
     e_header "Initializing git repository..."
@@ -80,16 +72,6 @@ else
     git submodule update --recursive --init --quiet
 fi
 
-# Install and update packages
-if [[ $no_packages ]]; then
-    e_header "Skipped package installations.\n"
-else
-    e_header "Updating packages...\n"
-    # Install Homebrew formulae
-    run_brew
-    # Install Node packages
-    run_npm
-fi
 
 link() {
     # Force create/replace the symlink.
