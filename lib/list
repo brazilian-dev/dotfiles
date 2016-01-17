@@ -1,0 +1,85 @@
+# ------------------------------------------------------------------------------
+# | List what it'll be installed                                               |
+# ------------------------------------------------------------------------------
+
+run_list() {
+
+cat <<EOT
+------------------------------------------------------------------------------
+dotfiles - Hemerson Vianna - http://hemersonvianna.io
+------------------------------------------------------------------------------
+
+NPM:
+    - grunt-cli
+    - gulp
+    - bower
+    - imageoptim-cli
+    - browserify
+    - uglifyjs
+    - jshint
+    - eslint
+    - stylus
+    - browser-sync
+    - markdown
+    - jade
+    - mocha
+    - coveralls
+    - istanbul
+    - webpagetest
+    - babel
+    - react-tools
+    - webpack
+    - clean-css
+    - node-sass
+    - express
+    - karma
+    - yo
+    - ionic
+    - cordova
+
+Gems:
+    - sass
+    - compass
+    - haml
+    - slim
+    - jekyll
+    - bundler
+    - capistrano
+    - sinatra
+    - rack
+    - puma
+    - homesick
+    - capybara
+    - rspec
+    - rails
+    - showterm
+PHP:
+    - composer
+    - wp-cli
+
+Applications
+------------
+    - firefox
+    - sublime-text
+    - filezilla
+    - imageoptim
+    - dropbox
+    - sourcetree
+    - google-drive
+    - google-chrome
+    - evernote
+    - spotify
+    - virtualbox
+    - vagrant
+    - sketch
+    - hipchat
+    - slack
+    - apache-couchdb
+    - gitter
+    - fluid
+    - trello-x
+    - atom
+------------------------------------------------------------------------------
+EOT
+
+}
