@@ -4,6 +4,21 @@
 [![issues](https://img.shields.io/github/issues/brazilian-dev/dotfiles.svg)](https://github.com/brazilian-dev/dotfiles/issues)
 
 
+## Instalação
+
+```bash
+$ bash -c "$(curl -fsSL raw.github.com/brazilian-dev/dotfiles/master/bin/dotfiles)"
+```
+
+
+## Uso
+
+**Opções**
+
+- `./dotfiles --help`: instruções de uso
+- `./dotfiles --list`: lista com todos os aplicativos e dependências a serem instaladas
+
+
 ## Referências
 
 * [@vitorbritto](https://github.com/vitorbritto) (Vitor Britto)
