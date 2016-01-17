@@ -1,2 +1,4 @@
-mklink "%USERPROFILE%\.gitconfig" "%USERPROFILE%\dotfiles\gitconfig"
-mklink "%USERPROFILE%\.gitignore" "%USERPROFILE%\dotfiles\gitignore"
+mklink "%USERPROFILE%\.gitconfig" "%USERPROFILE%\.dotfiles\git\gitconfig"
+mklink "%USERPROFILE%\.gitignore" "%USERPROFILE%\.dotfiles\git\gitignore"
+
+pause
