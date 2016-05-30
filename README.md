@@ -29,7 +29,7 @@ $ git clone https://github.com/brazilian-dev/dotfiles.git && cd dotfiles && sh i
   [https://github.com/vitorbritto/forcefiles](https://github.com/vitorbritto/forcefiles)
 * [@necolas](https://github.com/necolas) (Nicolas Gallagher)
   [https://github.com/necolas/dotfiles](https://github.com/necolas/dotfiles)
-* [@necolas](https://github.com/davidsonfellipe) (Davidson Fellipe)
+* [@davidsonfellipe](https://github.com/davidsonfellipe) (Davidson Fellipe)
   [https://github.com/davidsonfellipe/dotfiles](https://github.com/davidsonfellipe/dotfiles)
 
 ## Contributing
