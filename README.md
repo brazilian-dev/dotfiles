@@ -5,29 +5,19 @@
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
 [![issues](https://img.shields.io/github/issues/brazilian-dev/dotfiles.svg?style=flat-square)](https://github.com/brazilian-dev/dotfiles/issues)
 
+## How to run
 
-## Install
-
-### Linux / OSX 
 ```bash
-$ bash -c "$(curl -fsSL raw.github.com/brazilian-dev/dotfiles/master/bin/dotfiles)"
+$ sh install
 ```
 
-### Windows
+## Instalation
+
+```bash
+$ curl -L raw.github.com/brazilian-dev/dotfiles/master/install | sh
+# or
+$ git clone https://github.com/brazilian-dev/dotfiles.git && cd dotfiles && sh install.sh
 ```
-cd ~/
-git clone https://github.com/brazilian-dev/dotfiles.git
-cd dotfiles/
-make.bat
-```
-
-## Usage
-
-**Options**
-
-- `./dotfiles --help`: Instructions for use
-- `./dotfiles --list`: list of all the applications and dependencies that will be installed
-
 
 ## References
 
@@ -39,7 +29,8 @@ make.bat
   [https://github.com/vitorbritto/forcefiles](https://github.com/vitorbritto/forcefiles)
 * [@necolas](https://github.com/necolas) (Nicolas Gallagher)
   [https://github.com/necolas/dotfiles](https://github.com/necolas/dotfiles)
-
+* [@necolas](https://github.com/davidsonfellipe) (Davidson Fellipe)
+  [https://github.com/davidsonfellipe/dotfiles](https://github.com/davidsonfellipe/dotfiles)
 
 ## Contributing
 
