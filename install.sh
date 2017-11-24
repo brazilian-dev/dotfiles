@@ -10,8 +10,8 @@ msg '  \ \____-  \ \_____\   \ \_\  \ \_\    \ \_\  \ \_____\  \ \_____\  \/\___
 msg '   \/____/   \/_____/    \/_/   \/_/     \/_/   \/_____/   \/_____/   \/_____/ '
 msg '                                                                               '
 
-msg_install "Cloning" "git@github.com:brazilian-dev/dotfiles.git"
-git clone git@github.com:brazilian-dev/dotfiles.git $HOME/dotfiles
+msg_install "Cloning" "git@github.com:descco-support/dotfiles.git"
+git clone git@github.com:descco-support/dotfiles.git $HOME/dotfiles
 ok "OK"
 
 sh common/dotfiles.sh
