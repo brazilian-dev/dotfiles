@@ -1,11 +1,11 @@
 # My Dotfiles
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
-[![GitHub issues](https://img.shields.io/github/issues/org-moon-world/dotfiles.svg)](https://github.com/org-moon-world/dotfiles/issues)
-![GitHub Release Date](https://img.shields.io/github/release-date/org-moon-world/dotfiles.svg)
-![GitHub top language](https://img.shields.io/github/languages/top/org-moon-world/dotfiles.svg)
-![GitHub repo size](https://img.shields.io/github/repo-size/org-moon-world/dotfiles.svg)
-![GitHub All Releases](https://img.shields.io/github/downloads/org-moon-world/dotfiles/total.svg)
+[![GitHub issues](https://img.shields.io/github/issues/w3dotdev/dotfiles.svg)](https://github.com/w3dotdev/dotfiles/issues)
+![GitHub Release Date](https://img.shields.io/github/release-date/w3dotdev/dotfiles.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/w3dotdev/dotfiles.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/w3dotdev/dotfiles.svg)
+![GitHub All Releases](https://img.shields.io/github/downloads/w3dotdev/dotfiles/total.svg)
 
 ## How to run
 
@@ -16,9 +16,9 @@ $ sh install
 ## Instalation
 
 ```bash
-$ curl -L raw.github.com/org-moon-world/dotfiles/master/install | sh
+$ curl -L raw.github.com/w3dotdev/dotfiles/master/install | sh
 # or
-$ git clone https://github.com/org-moon-world/dotfiles.git && cd dotfiles && sh install.sh
+$ git clone https://github.com/w3dotdev/dotfiles.git && cd dotfiles && sh install.sh
 ```
 
 ## References
@@ -44,7 +44,7 @@ $ git clone https://github.com/org-moon-world/dotfiles.git && cd dotfiles && sh 
 
 ## Log
 
-Check [Releases](https://github.com/org-moon-world/dotfiles/releases) for detailed changelog.
+Check [Releases](https://github.com/w3dotdev/dotfiles/releases) for detailed changelog.
 
 ## License
 
